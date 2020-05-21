@@ -5,4 +5,4 @@ ALGORITHMS AND DATA STRUCTURES
   * Bubble (C)
   * Selection (C)
   * Heap (C)
-* Binary Search (C)
+* Binary Search (C, C++)
